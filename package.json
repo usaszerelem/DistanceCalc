@@ -1,0 +1,16 @@
+{
+  "name": "distancecalc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "is-empty": "^1.2.0",
+    "lambda-local": "^1.5.1",
+    "request": "^2.88.0"
+  }
+}
